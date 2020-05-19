@@ -1,0 +1,356 @@
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.exe
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.deps.json
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.runtimeconfig.json
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.Models.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\Panda.Models.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.exe
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.runtimeconfig.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.Models.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\Panda.Models.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.exe
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Resources\css\bootstrap.min.css
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Resources\css\reset-css.css
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Resources\css\style.css
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Resources\favicon.ico
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Resources\js\bootstrap.min.js
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Resources\js\jquery-3.4.1.min.js
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Resources\js\popper.min.js
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.runtimeconfig.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.Models.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.Models.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\Home\Index.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\Home\IndexLoggedIn.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\Packages\Create.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\Packages\Delivered.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\Packages\Pending.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\Receipts\Index.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\Users\Login.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\Users\Register.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Views\_Layout.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.Services.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.App\bin\Debug\netcoreapp3.1\Panda.Services.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.exe
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Resources\css\bootstrap.min.css
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Resources\css\reset-css.css
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Resources\css\style.css
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Resources\favicon.ico
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Resources\js\bootstrap.min.js
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Resources\js\jquery-3.4.1.min.js
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Resources\js\popper.min.js
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\Home\Index.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\Home\IndexLoggedIn.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\Packages\Create.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\Packages\Delivered.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\Packages\Pending.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\Receipts\Index.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\Users\Login.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\Users\Register.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Views\_Layout.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.runtimeconfig.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.App.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.Models.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.Services.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.Services.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\Panda.Models.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda\Panda.App\obj\Debug\netcoreapp3.1\Panda.App.pdb

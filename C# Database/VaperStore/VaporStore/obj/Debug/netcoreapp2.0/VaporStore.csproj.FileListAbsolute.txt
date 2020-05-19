@@ -1,0 +1,10 @@
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb
+C:\Users\Velev\Desktop\01. Model Definition_Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache

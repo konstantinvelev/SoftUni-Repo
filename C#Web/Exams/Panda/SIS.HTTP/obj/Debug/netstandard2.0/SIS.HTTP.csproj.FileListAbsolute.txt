@@ -1,0 +1,24 @@
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache

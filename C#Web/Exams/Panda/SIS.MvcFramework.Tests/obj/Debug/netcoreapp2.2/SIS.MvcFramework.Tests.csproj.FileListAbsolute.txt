@@ -1,0 +1,72 @@
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\TestWithoutCSharpCode.html
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\TestWithoutCSharpCode.Result.html
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseForForeachAndIf.html
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseForForeachAndIf.Result.html
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseModelData.html
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseModelData.Result.html
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.deps.json
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.runtimeconfig.json
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\TestWithoutCSharpCode.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\TestWithoutCSharpCode.Result.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseForForeachAndIf.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseForForeachAndIf.Result.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseModelData.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseModelData.Result.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.runtimeconfig.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\TestWithoutCSharpCode.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\TestWithoutCSharpCode.Result.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseForForeachAndIf.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseForForeachAndIf.Result.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseModelData.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\ViewTests\UseModelData.Result.html
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.runtimeconfig.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.MvcFramework.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\SIS.MvcFramework.Tests\obj\Debug\netcoreapp2.2\SIS.MvcFramework.Tests.pdb

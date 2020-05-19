@@ -1,0 +1,10 @@
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\Velev\Desktop\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache

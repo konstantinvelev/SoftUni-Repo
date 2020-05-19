@@ -1,0 +1,10 @@
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Velev\Desktop\01. Model Definition _Skeleton + Datasets (1)\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

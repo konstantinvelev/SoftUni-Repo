@@ -1,0 +1,33 @@
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.deps.json
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\bin\Debug\netstandard2.0\Panda.Models.dll
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\bin\Debug\netstandard2.0\Panda.Models.pdb
+C:\Users\Velev\Desktop\C#Web\PandaExam Web Basic C#\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\bin\Debug\netstandard2.0\Panda.Models.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\bin\Debug\netstandard2.0\Panda.Models.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Exam\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.deps.json
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\bin\Debug\netstandard2.0\Panda.Data.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\bin\Debug\netstandard2.0\Panda.Models.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\bin\Debug\netstandard2.0\Panda.Models.pdb
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csprojAssemblyReference.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfoInputs.cache
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.AssemblyInfo.cs
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.csproj.CopyComplete
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.dll
+C:\Users\Velev\Desktop\C#Web\Web-Exams\Panda.Data\obj\Debug\netstandard2.0\Panda.Data.pdb
